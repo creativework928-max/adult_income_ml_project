@@ -1,0 +1,86 @@
+[
+    {
+        "feature": "marital-status",
+        "importance": 0.0857979381222559,
+        "importance_std": 0.0022112672071072383,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "capital-gain",
+        "importance": 0.061875453199949845,
+        "importance_std": 0.0023637121352277917,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "age",
+        "importance": 0.05112204508452374,
+        "importance_std": 0.0027359726712086517,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "education-num",
+        "importance": 0.03051391593651026,
+        "importance_std": 0.001863549449898467,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "hours-per-week",
+        "importance": 0.012570257144169383,
+        "importance_std": 0.0006709779338999729,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "capital-loss",
+        "importance": 0.012331226007526919,
+        "importance_std": 0.0008775122838346026,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "occupation",
+        "importance": 0.011217875109691678,
+        "importance_std": 0.0009459321193661319,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "relationship",
+        "importance": 0.004363339184713699,
+        "importance_std": 0.0008049602431829053,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "workclass",
+        "importance": 0.0019206727556478564,
+        "importance_std": 0.0002438404637006568,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "sex",
+        "importance": 0.0013498149326814034,
+        "importance_std": 0.00025760709395491446,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "fnlwgt",
+        "importance": 0.0006380773259409,
+        "importance_std": 0.00030005061922669965,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "race",
+        "importance": 0.0005972742213823712,
+        "importance_std": 0.00027154361322856836,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "native-country",
+        "importance": 0.0005042023916869143,
+        "importance_std": 0.0002547298317258349,
+        "method": "permutation_importance"
+    },
+    {
+        "feature": "education",
+        "importance": 6.27098073295862e-06,
+        "importance_std": 0.00010298651866686647,
+        "method": "permutation_importance"
+    }
+]
