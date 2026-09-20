@@ -1,0 +1,11 @@
+Metric,Value
+Original rows,48842.0
+Original features,14.0
+Training rows,39073.0
+Testing rows,9769.0
+Processed training features,105.0
+Processed testing features,105.0
+Missing values before preprocessing,2203.0
+Missing values after cleaning,6465.0
+Train positive-class ratio,0.2393
+Test positive-class ratio,0.2393
