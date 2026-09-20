@@ -1,0 +1,12 @@
+{
+    "best_model": "HistGradientBoosting",
+    "roc_auc": 0.9289400321566912,
+    "random_state": 42,
+    "test_size": 0.2,
+    "models_evaluated": [
+        "Logistic Regression",
+        "Random Forest",
+        "HistGradientBoosting"
+    ],
+    "selection_metric": "roc_auc"
+}
